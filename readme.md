@@ -1,5 +1,6 @@
 # Words.lu Luxembourgish Dictionary Dataset
 Parsed by Saeed Afshari - NeatCapital OU (sa@neatcapital.ee)
+Based on the LOD Dataset
 Data is stored in the Realm format. More information: https://realm.io
 License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
